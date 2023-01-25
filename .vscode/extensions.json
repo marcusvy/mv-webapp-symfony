@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "github.github-vscode-theme",
+    "pkief.material-icon-theme",
+    "johnpapa.vscode-peacock",
+    "kamikillerto.vscode-colorize",
+    "editorconfig.editorconfig",
+    "ysemeniuk.emmet-live",
+    "heybourn.headwind",
+    "wix.vscode-import-cost",
+    "visualstudioexptteam.vscodeintellicode",
+    "zignd.html-css-class-completion",
+    "ritwickdey.liveserver",
+    "christian-kohler.path-intellisense",
+    "xdebug.php-debug",
+    "neilbrayfield.php-docblocker",
+    "phproberto.vscode-php-getters-setters",
+    "bmewburn.vscode-intelephense-client",
+    "pnp.polacode",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "marclipovsky.string-manipulation",
+    "fabiospampinato.vscode-terminals",
+    "rangav.vscode-thunder-client",
+    "mblode.twig-language"
+  ]
+}
